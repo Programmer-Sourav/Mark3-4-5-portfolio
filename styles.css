@@ -78,10 +78,10 @@ hr {
 /** navigation **/
 
 .navigation {
-  background-color: var(--primary-color);
+  background-color: #004ba0;
   color: white;
   padding: 1rem;
-  border-bottom-left-radius: 1rem;
+ 
 }
 
 .navigation .nav-brand {
