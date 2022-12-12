@@ -6,6 +6,7 @@
   --dark-gray: #a4a4a4;
   --off-yellow: #ffe082;
   --dark-yellow: #ffd54f;
+  --light-gray: #e0e0e0;
 }
 
 body {
@@ -153,6 +154,10 @@ hr {
 
   .dy {
     background-color: var(--dark-yellow);
+  }
+
+  .lg {
+    background-color: var(--light-gray);
   }
 
 /** footers **/
